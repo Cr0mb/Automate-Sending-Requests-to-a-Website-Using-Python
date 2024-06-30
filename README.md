@@ -23,11 +23,11 @@ pip install requests colorama
 # Usage
 1. Prepare Your Proxies
 
-You can use this script to get the proxies required for this project.
-https://github.com/Cr0mb/Proxy-Scraper
+You can use this other script to get the proxies required for this project: https://github.com/Cr0mb/Proxy-Scraper
 
 2. Change the URL
-Chane the URL to whatever site you want to send the requests to.
+
+Change the URL to whatever site you want to send the requests to.
 
 
 ## Notes
