@@ -1,6 +1,9 @@
 ![image](https://github.com/Cr0mb/Automate-Sending-Requests-to-a-Website-Using-Python/assets/137664526/abece847-914c-4b90-af59-9c0e8d8cdd91)
 
 
+https://www.youtube.com/watch?v=W5ksRSybyKg
+
+
 # Automate-Sending-Requests-to-a-Website-Using-Python
 This Python script automates the process of sending requests to a website using a list of proxies. It can be used to simulate views on a video or any other URL by cycling through various proxies and sending requests.
 
