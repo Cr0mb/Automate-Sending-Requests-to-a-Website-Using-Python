@@ -1,3 +1,4 @@
+![image](https://github.com/Cr0mb/Automate-Sending-Requests-to-a-Website-Using-Python/assets/137664526/abece847-914c-4b90-af59-9c0e8d8cdd91)
 
 
 # Automate-Sending-Requests-to-a-Website-Using-Python
